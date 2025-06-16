@@ -21,5 +21,5 @@ This repository contains a **Linear Regression** model that predicts housing pri
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KazimRaza010/Linear-Regression-Model-for-Housing-Data.git
-   cd Linear-Regression-Model-for-Housing-Data
+   git clone https://github.com/KazimRaza010/Linear-Regression-House-Price-Prediction-.git
+   cd Linear-Regression-House-Price-Prediction-
